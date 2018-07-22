@@ -1,0 +1,50 @@
+﻿#banner{
+	background: #000000;
+	height: 60px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+}
+#logo{
+	display: block;
+	width: 82px;
+	height: 27px;
+	margin-top: 17px;
+	background-image: url('../icons/logo_apollo.png');
+	margin-left: 10px;
+}
+
+#category{
+	float: none;
+}
+
+table.browsersupport {
+	margin-top: 60px;
+	border-collapse: collapse;
+}
+
+table.browsersupport th {
+	padding: 5px;
+	height: 36px;
+	vertical-align: middle;
+	text-align: center;
+	background-color: #F5F5F5;
+	border: 1px solid #ddd;
+}
+
+
+table.browsersupport td {
+	padding: 0;
+	height: 50px;
+	vertical-align: middle;
+	background: #fdfcf8 no-repeat center;
+	border: 1px solid #ddd;
+}
+
+table.browsersupport a{
+	text-decoration:none;
+	color:black;
+	padding: 10px;
+}
