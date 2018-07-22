@@ -15,7 +15,16 @@
 	background-image: url('../icons/logo_apollo.png');
 	margin-left: 10px;
 }
-
+#trademark{
+	color: #0066FF;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+	font-size: 20px;
+	margin-left: 100px;
+}
 #category{
 	float: none;
 }
