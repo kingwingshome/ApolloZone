@@ -16,14 +16,15 @@
 	margin-left: 10px;
 }
 #trademark{
-	color: #0066FF;
+	color: #66CCFF;
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	z-index: 100;
 	font-size: 20px;
-	margin-left: 100px;
+	margin-left: 120px;
+	font-family: "Microsoft YaHei UI";
 }
 #category{
 	float: none;
